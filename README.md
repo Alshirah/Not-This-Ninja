@@ -2,4 +2,4 @@
 
 a game about a different ninja.
 
-Like to the game: https://sultansh.github.io/Not-This-Ninja/
+Like to the game: https://alshirah.github.io/Not-This-Ninja/
